@@ -7,7 +7,7 @@ DATA_DIR = os.path.join("output", "mlp-relaxation")
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
-TEST_STRUC = os.path.join("mp-18767-LiMnO2.cif")
+TEST_STRUC = os.path.join("cifs", "mp-18767-LiMnO2.cif")
 SAVE_TRAJ = os.path.join("output", "mlp-relaxation", "chgnet_traj.traj")
 
 
