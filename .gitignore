@@ -21,7 +21,7 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-*.egg-info/
+pydmc_ml.egg-info
 .installed.cfg
 *.egg
 MANIFEST

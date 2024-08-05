@@ -1,5 +1,5 @@
 [project]
-name = "pydmc-ml"
+name = "pydmc_ml"
 version = "0.1.0"
 description = "A Python package to facilitate rapid structural optimization and fine-tuning of deep learning models."
 authors = [{name = "Chris Bartel", email = "cbartel@umn.edu"}, {name = "Kyle Noordhoek", email = "noord014@umn.edu"}]
